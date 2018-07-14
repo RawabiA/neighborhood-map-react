@@ -1,10 +1,19 @@
-neighborhood-map
+#neighborhood-map
 
 React and node.js to show Google Maps of fun neighborhood spots
 
-how to run
+## how to run
 
-> cd neighborhood-map
-> npm install
-> npm start
-Go to your browser at http://localhost:3000
+1-
+``` 
+cd neighborhood-map
+```
+2-  
+``` 
+npm install 
+```
+3-  
+```
+npm start 
+```
+4- Go to your browser at http://localhost:3000
