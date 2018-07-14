@@ -1,6 +1,6 @@
 # Neighborhood Map
 
-React and node.js to show Google Maps of fun neighborhood spots
+React and node.js to show Google Maps of my neighborhood 
 
 ## how to run
 
